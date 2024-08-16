@@ -1,13 +1,18 @@
-# Lern-Periode 4
+# Lern-Periode 
 
-23.2 bis 5.4.2024
+16.08. bis 20.09.2024
+
+## Einstiegsauftrag
+   1. Ich weiss nicht, was ich für einen Notenschnitt für eine Praktikumsstelle brauche, und ich weiss auch noch nicht, wo ich ein Praktikum machen möchte.
+   
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP3 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+1. Wo stehen Sie mit Ihren Noten? Bisher haben wir noch keine Noten, aber am wichtigsten sind Noten in den Modulen und von den BM-Fächern.
+2. Was hatten Sie sich am Ende von LP5 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+   Ich nahm mir vor, produktiver und weniger abgelenkt zu arbeiten. Ich werde vermutlich im Lern-Atelier an den Modulen weiter arbeiten.
+   
+3. Was wäre ein geeignetes Projekt für diese LP6? Weiter an den Modulen arbeiten, vor allem am OOP.
 
 ## 20.2.2024
 
