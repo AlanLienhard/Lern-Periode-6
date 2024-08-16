@@ -27,9 +27,9 @@
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |      Wir müssen bestimmte Modul in der Woche erledigen                |    Ich habe nicht alle erledigt            |         Erledige restliche       |          |
+| 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |          |
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
