@@ -14,11 +14,11 @@
    
 3. Was wäre ein geeignetes Projekt für diese LP6? Weiter an den Modulen arbeiten, vor allem am OOP.
 
-## 20.2.2024
+## 16.08.2024
 
 ✍️ Heute habe ich am Modul M320 weitergearbeitet. Ich habe die Aufträge 4202, 4203 und 4204 abgeschlossen und ich habe mit 4205 angefangen. Ich habe an diesem Modul weitergearbeitet, weil ich amm Mittwoch im Modul-Track nicht ganz mit den Aufträgen fertig wurde und weil mir (tatsächliches) Programmieren mehr Spass macht als zum Beispiel PowerShell oder Datenbanksprachen (wie wir das im ersten IMS-Jahr hatten). Nächste Woche werde ich vermutlich an einem Modul weiterarbeiten, wo ich möglicherweise nicht ganz fertig wurde, sonst werde ich weiter am "The Odin Project" (ein Online Full-Stack Web Dev Kurs) weiterarbeiten, wie in der Lern-Periode-5.  (97 Wörter)
 
-## 27.2.2024
+## 23.08.2024
 
 - [ ] 1 Auftrag vom Modul M320 erledigen
 - [ ] Weiter am "The Odin Project" arbeiten, ich fange dann mit den JavaScript Basics an
