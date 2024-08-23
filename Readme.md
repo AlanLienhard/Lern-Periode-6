@@ -20,18 +20,18 @@
 
 ## 23.08.2024
 
-- [ ] 1 Auftrag vom Modul M320 erledigen
-- [ ] Weiter am "The Odin Project" arbeiten, ich fange dann mit den JavaScript Basics an
-- [ ] "The Odin Project" fortsetzen
-- [ ] An "The Odin Project" weiterarbeiten
+- [x] 1 Auftrag vom Modul M320 erledigen
+- [x] Weiter am "The Odin Project" arbeiten, ich fange dann mit den JavaScript Basics an
+- [x] "The Odin Project" fortsetzen
+- [x] An "The Odin Project" weiterarbeiten
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |      Wir müssen bestimmte Modul in der Woche erledigen                |    Ich habe nicht alle erledigt            |         Erledige restliche       |          |
-| 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |          |
+| 1               |      Wir müssen bestimmte Modul in der Woche erledigen                |    Ich habe nicht alle erledigt            |         Erledige restliche       |          | ja
+| 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |      ja    |
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich  beim Modul M320 den Lernauftrag LA_4213 erledigt, weil ich am Mittwoch nicht ganz fertig geworden bin und es nicht ganz verstanden habe. Danach habe ich am zuvor erwähnten "The Odin Project" gearbeitet und die Basics von JavaScript erlernt. Das war nicht ganz schwierig, weil die Logik die selbe ist, wie bei C# ist.(56 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
