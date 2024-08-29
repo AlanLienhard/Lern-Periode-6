@@ -46,8 +46,9 @@
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |      Ich habe beim Modul M320 "Promillerechner" nicht abgeschlossen               |    Promillerechner nicht fertig       |         Erledige Aufgabe       |    Alle Aufträge der Woche sind fertig      | 
+| 1               |      Ich habe beim Modul M320 "Promillerechner" nicht abgeschlossen               |    Erledige "Promillerechner"     |        Alle Aufträge der Woche sind fertig        |         | 
 | 2            |     The Odin Project JavaScript Aufträge durchgearbeitet, verstanden und angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |          |
+| 3               |   Mit Hilfe des "The Odin Project" Schere, Stein, Papier gemacht   | Wenn ich eine Website mit Schere, Stein, Papier gemacht habe | Dann habe ich JavaScript Basics verstanden |   |
 
 
 
