@@ -44,6 +44,13 @@
 - [ ] Weiter am "The Odin Project" arbeiten
 - [ ] Am "The Odin Project" arbeiten. Ziel für die nächsten Arbeitspakete ist es, ein Schere, Stein, Papier zu machen.
 
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |      Ich habe beim Modul M320 "Promillerechner" nicht abgeschlossen               |    Promillerechner nicht fertig       |         Erledige Aufgabe       |    Alle Aufträge der Woche sind fertig      | 
+| 2            |     The Odin Project JavaScript Aufträge durchgearbeitet, verstanden und angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |          |
+
+
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
