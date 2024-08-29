@@ -37,6 +37,13 @@
 
 
 
+## 30.08.2024
+
+- [ ] M320 Auuftrag "Promillerechner" abschliessen. Da ich am Mittwoch krank war, konnte ich nicht ganz gut arbeiten und wurde mit diesem Auftrag nicht fertig.
+- [ ] Weiter am "The Odin Project" bei  den JavaScript Foundations arbeiten
+- [ ] Weiter am "The Odin Project" arbeiten
+- [ ] Am "The Odin Project" arbeiten. Ziel für die nächsten Arbeitspakete ist es, ein Schere, Stein, Papier zu machen.
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
