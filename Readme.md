@@ -39,10 +39,12 @@
 
 ## 30.08.2024
 
-- [ ] M320 Auuftrag "Promillerechner" abschliessen. Da ich am Mittwoch krank war, konnte ich nicht ganz gut arbeiten und wurde mit diesem Auftrag nicht fertig.
-- [ ] Weiter am "The Odin Project" bei  den JavaScript Foundations arbeiten
-- [ ] Weiter am "The Odin Project" arbeiten
+- [x] M320 Auuftrag "Promillerechner" abschliessen. Da ich am Mittwoch krank war, konnte ich nicht ganz gut arbeiten und wurde mit diesem Auftrag nicht fertig.
+- [x] Weiter am "The Odin Project" bei  den JavaScript Foundations arbeiten
+- [x] Weiter am "The Odin Project" arbeiten
 - [ ] Am "The Odin Project" arbeiten. Ziel für die nächsten Arbeitspakete ist es, ein Schere, Stein, Papier zu machen.
+
+Heute habe ich nur 3 von 4 Arbeitspaketen erledigen können. Das Vierte war jedoch kein konretes Ziel für heute, sondern für heute und die nächsten kommenden Wochen. Ich habe den Promillerechner vom Mittwoch noch nachholen können. Nächstes Mal möchte ich ähnlich vorgehen (1 AP für C# OOP, 3 APs für "The Odin Project"). (53 Wörter)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
