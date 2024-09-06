@@ -52,6 +52,12 @@ Heute habe ich nur 3 von 4 Arbeitspaketen erledigen können. Das Vierte war jedo
 | 2            |     The Odin Project JavaScript Aufträge durchgearbeitet, verstanden und angewendet                 |    Alles angewendet            |       JavaScript Basics gelernt         |        ja  | 
 | 3               |   Mit Hilfe des "The Odin Project" Schere, Stein, Papier gemacht   | Wenn ich eine Website mit Schere, Stein, Papier gemacht habe | Dann habe ich JavaScript Basics verstanden | nein  |
 
+## 06.09.2024
+
+- [ ] An The Odin Project weiterarbeiten
+- [ ] An The Odin Project weiterarbeiten
+- [ ] Deutsch lernen für Prüfung heute
+
 
 
 ## Reflexion
