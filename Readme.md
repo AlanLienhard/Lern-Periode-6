@@ -54,14 +54,17 @@ Heute habe ich nur 3 von 4 Arbeitspaketen erledigen können. Das Vierte war jedo
 
 ## 06.09.2024
 
+- [x] An The Odin Project weiterarbeiten
 - [ ] An The Odin Project weiterarbeiten
-- [ ] An The Odin Project weiterarbeiten
-- [ ] Deutsch lernen für Prüfung heute
+- [x] Deutsch lernen für Prüfung heute
+
+Ich habe heute nicht so viel am "The Odin Project" gearbeitet wie ich wollte bzw. bin ich nicht so weit gekommen, wie ich es erwartet/geplant habe, deswegen habe ich nur eines von zwei Arbeitspakete als erledigt gekennzeichnet.
+Ich habe auch wie geplant für die heutige Deutschprüfung gelernt und hoffe, dass ich bei der Prüfung gut abschneide. (56 Wörter)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |      Ich lerne Deutsch für die Prüfung heute            |     Ich lerne den Stoff für heute         |     Ich habe es verstanden          |          | 
-| 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Neues gelernt         |        |
+| 1               |      Ich lerne Deutsch für die Prüfung heute            |     Ich lerne den Stoff für heute         |     Ich habe es verstanden          |   ja       | 
+| 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Neues gelernt         |     ja   |
 
 ## Reflexion
 
