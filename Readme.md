@@ -66,6 +66,13 @@ Ich habe auch wie geplant für die heutige Deutschprüfung gelernt und hoffe, da
 | 1               |      Ich lerne Deutsch für die Prüfung heute            |     Ich lerne den Stoff für heute         |     Ich habe es verstanden          |   ja       | 
 | 2            |     The Odin Project JavaScript Basics durchgelesen und Wissen angewendet                 |    Alles angewendet            |       JavaScript Neues gelernt         |     ja   |
 
+
+## 13.09.2024
+
+- [ ] Bei Modul M320 Auftrag LA_4211 abschliessen.
+- [ ] Zwei Aufträge beim Modul M231 von Herr Colic machen.
+- [ ] Weiter am "The Odin Project" arbeiten.
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
