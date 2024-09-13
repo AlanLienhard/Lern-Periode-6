@@ -69,9 +69,11 @@ Ich habe auch wie geplant für die heutige Deutschprüfung gelernt und hoffe, da
 
 ## 13.09.2024
 
-- [ ] Bei Modul M320 Auftrag LA_4211 abschliessen.
+- [x] Bei Modul M320 Auftrag LA_4211 abschliessen.
 - [ ] Zwei Aufträge beim Modul M231 von Herr Colic machen.
-- [ ] Weiter am "The Odin Project" arbeiten.
+- [x] Weiter am "The Odin Project" arbeiten.
+
+Heute habe ich den OOP-Auftrag abgeschlossen, am "The Odin Project" weitergearbeitet und ich habe keine Aufträge für das Modul von Herr Colic gemacht, weil ich mit Amar an unserem LB-Projekt für das Modul M322 von Frau Rapisarda gearbeitet habe. Nächstes Mal möchte ich weiter am "The Odin Project" weiterarbeiten und eventuell weiter Objekt orientiert programmieren. (55 Wörter)
 
 ## Reflexion
 
