@@ -77,10 +77,12 @@ Heute habe ich den OOP-Auftrag abgeschlossen, am "The Odin Project" weitergearbe
 
 ## 20.09.2024
 
-- [ ] Ich arbeite weiter am "The Odin Project"
-- [ ] Weiter an "The Odin Project" arbeiten.
-- [ ] An der LB für das Modul M322 von Frau Rapisarda arbeiten
+- [x] Ich arbeite weiter am "The Odin Project"
+- [x] Weiter an "The Odin Project" arbeiten.
+- [x] An der LB für das Modul M322 von Frau Rapisarda arbeiten
 - [ ] M322 Low-Fidelity Prototyp anfangen/abschliessen wenn möglich
+
+Ich habe heute weiter am "The Odin Project" bei JavaScript weitergearbeitet und an den LB vom Moudl M322. Dort habe ich einen LoFi-Prototypen von der Website, die ich und Amar machen, mittels Visual Paradigm angefangen und ich bin fast fertig geworden. Amar hat mit dem HiFi-Prototypen weitergearbeitet. Entweder nach den Ferien oder ich den Ferien, mache ich den LoFi-Prototypen fertig. (60 Wörter)
 
 ## Reflexion
 
