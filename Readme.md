@@ -75,6 +75,13 @@ Ich habe auch wie geplant für die heutige Deutschprüfung gelernt und hoffe, da
 
 Heute habe ich den OOP-Auftrag abgeschlossen, am "The Odin Project" weitergearbeitet und ich habe keine Aufträge für das Modul von Herr Colic gemacht, weil ich mit Amar an unserem LB-Projekt für das Modul M322 von Frau Rapisarda gearbeitet habe. Nächstes Mal möchte ich weiter am "The Odin Project" weiterarbeiten und eventuell weiter Objekt orientiert programmieren. (55 Wörter)
 
+## 20.09.2024
+
+- [ ] Ich arbeite weiter am "The Odin Project"
+- [ ] Weiter an "The Odin Project" arbeiten.
+- [ ] An der LB für das Modul M322 von Frau Rapisarda arbeiten
+- [ ] M322 Low-Fidelity Prototyp anfangen/abschliessen wenn möglich
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
