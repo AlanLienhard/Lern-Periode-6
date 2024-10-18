@@ -84,12 +84,7 @@ Heute habe ich den OOP-Auftrag abgeschlossen, am "The Odin Project" weitergearbe
 
 Ich habe heute weiter am "The Odin Project" bei JavaScript weitergearbeitet und an den LB vom Moudl M322. Dort habe ich einen LoFi-Prototypen von der Website, die ich und Amar machen, mittels Visual Paradigm angefangen und ich bin fast fertig geworden. Amar hat mit dem HiFi-Prototypen weitergearbeitet. Entweder nach den Ferien oder ich den Ferien, mache ich den LoFi-Prototypen fertig. (60 Wörter)
 
-## 18.10.2024
 
-- [ ] Weiter and The Odin Project arbeiten
-- [ ] Left Center Right ausbessern/weitermachen
-- [ ] Weiter an The Odin Project Java
-- [ ] Weiter an The Odin Project arbeiten
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
